@@ -1,0 +1,21 @@
+{
+    "title": "my小白的Gitbook",               
+    "author": "cmy",                    
+    "description": "my first try",          
+    "language" : "zh-hans",
+    "root":".",
+    
+    "plugins":[
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "splitter",
+        "popup",
+        "klipse"  
+    ]
+}
+
+    
